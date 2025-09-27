@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Project Banner](images/banner.png)
+![Project Banner](assets/11.png)
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
@@ -11,7 +11,7 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-98.31%25-brightgreen.svg)
 ![ROC AUC](https://img.shields.io/badge/ROC%20AUC-98.68%25-success.svg)
 
-</div>stomer Churn Analysis and Prediction
+</div>
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
@@ -336,34 +336,22 @@ L'application web propose 4 sections principales :
 - [x] Visualisations dynamiques
 - [x] Métriques de performance détaillées
 
-### 🚧 Améliorations Futures
 
-- [ ] API REST pour les prédictions
-- [ ] Déploiement sur le cloud (AWS/Azure)
-- [ ] Monitoring des performances en production
-- [ ] Intégration de données temps réel
-- [ ] Système de recommandations personnalisées
-- [ ] Dashboard administrateur avancé
-- [ ] Tests automatisés (CI/CD)
-- [ ] Documentation API
 
+<<<<<<< HEAD
 ## 📱 Captures d'Écran
 
 ### 🏠 Page d'Accueil
-![Page d'Accueil](images/homepage.png)
+![Page d'Accueil](assets/11.png)
 *Interface principale avec métriques et comparaison des modèles*
 
-### 🤖 Prédictions
-![Interface de Prédictions](images/predictions.png)
+### 🤖 Prédictions et Analytics
+![Interface de Prédictions](assets/12.png)
 *Formulaire de saisie et résultats de prédiction*
 
-### 📊 Visualisations
-![Graphiques et Analytics](images/analytics.png)
-*Graphiques interactifs et analyses*
-
-### 🎯 Performance du Modèle
-![Métriques de Performance](images/model-performance.png)
-*ROC Curve, Matrice de Confusion, et Importance des Variables*
+### 📊 Visualisations Avancées
+![Graphiques et Analytics](assets/22.png)
+*Graphiques interactifs et analyses de performance*
 
 ## 🤝 Contribution
 
@@ -409,9 +397,11 @@ Pour toute question ou support :
 ---
 
 <div align="center">
+=======
+>>>>>>> 42f5081acca9a98f335a291c0282a7c488058faa
 
 **⭐ N'hésitez pas à mettre une étoile si ce projet vous a été utile ! ⭐**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Leangonplu.Ecommerce_Customer_Churn_Analysis_and_Prediction)
+
 
 </div>
