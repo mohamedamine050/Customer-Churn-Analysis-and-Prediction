@@ -1,4 +1,17 @@
-# 🛍️ E-commerce Customer Churn Analysis and Prediction
+# 📊 Customer Churn Analysis and Prediction
+
+<div align="center">
+
+![Project Banner](images/banner.png)
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
+![Streamlit](https://img.shields.io/badge/Streamlit-Latest-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Accuracy](https://img.shields.io/badge/Accuracy-98.31%25-brightgreen.svg)
+![ROC AUC](https://img.shields.io/badge/ROC%20AUC-98.68%25-success.svg)
+
+</div>stomer Churn Analysis and Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
@@ -337,13 +350,20 @@ L'application web propose 4 sections principales :
 ## 📱 Captures d'Écran
 
 ### 🏠 Page d'Accueil
+![Page d'Accueil](images/homepage.png)
 *Interface principale avec métriques et comparaison des modèles*
 
 ### 🤖 Prédictions
+![Interface de Prédictions](images/predictions.png)
 *Formulaire de saisie et résultats de prédiction*
 
 ### 📊 Visualisations
+![Graphiques et Analytics](images/analytics.png)
 *Graphiques interactifs et analyses*
+
+### 🎯 Performance du Modèle
+![Métriques de Performance](images/model-performance.png)
+*ROC Curve, Matrice de Confusion, et Importance des Variables*
 
 ## 🤝 Contribution
 

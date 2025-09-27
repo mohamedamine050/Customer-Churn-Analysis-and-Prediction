@@ -11,14 +11,15 @@ from plotly.subplots import make_subplots
 
 # Configuration de la page
 st.set_page_config(
-    page_title="Analyse de Churn E-commerce",
+    page_title="Analyse de Churn entreprise",
+    # page_title="Analyse de Churn E-commerce",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 # Titre principal
-st.title("🛍️ Analyse et Prédiction de Churn Client E-commerce")
+st.title("🛍️ Analyse et Prédiction de Churn Client entreprise")
 st.markdown("---")
 
 # Fonction pour charger les données
@@ -109,7 +110,7 @@ if df is not None:
         # Description du projet
         st.subheader("📝 À propos du projet")
         st.markdown("""
-        Cette application analyse le comportement des clients e-commerce pour prédire le churn (abandon).
+        Cette application analyse le comportement des clients Entreprise pour prédire le churn (abandon).
         
         **Fonctionnalités disponibles:**
         - 📊 **Exploration des données**: Analyse descriptive et visualisations
@@ -431,4 +432,4 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("📊 **Analyse de Churn E-commerce** - Créé avec Streamlit")
+st.markdown("📊 **Analyse de Churn entreprise** - Créé avec Streamlit")
