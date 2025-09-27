@@ -353,21 +353,7 @@ L'application web propose 4 sections principales :
 ![Graphiques et Analytics](assets/22.png)
 *Graphiques interactifs et analyses de performance*
 
-## 🤝 Contribution
 
-Les contributions sont les bienvenues ! Voici comment contribuer :
-
-### 🔄 Processus de Contribution
-
-1. **Fork** le projet
-2. Créer une **branche feature** (`git checkout -b feature/AmazingFeature`)
-3. **Commit** vos changements (`git commit -m 'Add AmazingFeature'`)
-4. **Push** vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une **Pull Request**
-
-### 🐛 Signaler un Bug
-
-Utilisez les [GitHub Issues](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/issues) pour signaler des bugs ou demander des fonctionnalités.
 
 
 
