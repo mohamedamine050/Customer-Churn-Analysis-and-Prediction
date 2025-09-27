@@ -1,4 +1,4 @@
-# 🛍️ E-commerce Customer Churn Analysis and Prediction
+# Customer Churn Analysis and Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Latest-orange.svg)
@@ -323,72 +323,8 @@ L'application web propose 4 sections principales :
 - [x] Visualisations dynamiques
 - [x] Métriques de performance détaillées
 
-### 🚧 Améliorations Futures
 
-- [ ] API REST pour les prédictions
-- [ ] Déploiement sur le cloud (AWS/Azure)
-- [ ] Monitoring des performances en production
-- [ ] Intégration de données temps réel
-- [ ] Système de recommandations personnalisées
-- [ ] Dashboard administrateur avancé
-- [ ] Tests automatisés (CI/CD)
-- [ ] Documentation API
 
-## 📱 Captures d'Écran
-
-### 🏠 Page d'Accueil
-*Interface principale avec métriques et comparaison des modèles*
-
-### 🤖 Prédictions
-*Formulaire de saisie et résultats de prédiction*
-
-### 📊 Visualisations
-*Graphiques interactifs et analyses*
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! Voici comment contribuer :
-
-### 🔄 Processus de Contribution
-
-1. **Fork** le projet
-2. Créer une **branche feature** (`git checkout -b feature/AmazingFeature`)
-3. **Commit** vos changements (`git commit -m 'Add AmazingFeature'`)
-4. **Push** vers la branche (`git push origin feature/AmazingFeature`)
-5. Ouvrir une **Pull Request**
-
-### 🐛 Signaler un Bug
-
-Utilisez les [GitHub Issues](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/issues) pour signaler des bugs ou demander des fonctionnalités.
-
-## 👨‍💻 Auteur
-
-**Leangonplu**
-- GitHub : [@Leangonplu](https://github.com/Leangonplu)
-- Projet : [Ecommerce Customer Churn Analysis](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction)
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 🙏 Remerciements
-
-- Communauté open-source pour les bibliothèques utilisées
-- Kaggle pour les datasets d'inspiration
-- Streamlit pour la plateforme de déploiement
-- Scikit-Learn pour les outils ML
-
-## 📞 Contact & Support
-
-Pour toute question ou support :
-
-- 📧 Email : [Créer une issue](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/issues)
-- 💬 Discussions : [GitHub Discussions](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/discussions)
-- 🐛 Bugs : [GitHub Issues](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/issues)
-
----
-
-<div align="center">
 
 **⭐ N'hésitez pas à mettre une étoile si ce projet vous a été utile ! ⭐**
 
