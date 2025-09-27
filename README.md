@@ -328,6 +328,6 @@ L'application web propose 4 sections principales :
 
 **⭐ N'hésitez pas à mettre une étoile si ce projet vous a été utile ! ⭐**
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Leangonplu.Ecommerce_Customer_Churn_Analysis_and_Prediction)
+
 
 </div>
