@@ -104,8 +104,8 @@ pip (gestionnaire de packages Python)
 
 1. **Cloner le repository :**
 ```bash
-git clone https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction.git
-cd Ecommerce_Customer_Churn_Analysis_and_Prediction
+git@github.com:mohamedamine050/Customer-Churn-Analysis-and-Prediction.git
+
 ```
 
 2. **Installer les dépendances :**
