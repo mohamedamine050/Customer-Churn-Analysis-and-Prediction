@@ -369,36 +369,7 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 
 Utilisez les [GitHub Issues](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/issues) pour signaler des bugs ou demander des fonctionnalités.
 
-## 👨‍💻 Auteur
 
-**Leangonplu**
-- GitHub : [@Leangonplu](https://github.com/Leangonplu)
-- Projet : [Ecommerce Customer Churn Analysis](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction)
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## 🙏 Remerciements
-
-- Communauté open-source pour les bibliothèques utilisées
-- Kaggle pour les datasets d'inspiration
-- Streamlit pour la plateforme de déploiement
-- Scikit-Learn pour les outils ML
-
-## 📞 Contact & Support
-
-Pour toute question ou support :
-
-- 📧 Email : [Créer une issue](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/issues)
-- 💬 Discussions : [GitHub Discussions](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/discussions)
-- 🐛 Bugs : [GitHub Issues](https://github.com/Leangonplu/Ecommerce_Customer_Churn_Analysis_and_Prediction/issues)
-
----
-
-<div align="center">
-=======
->>>>>>> 42f5081acca9a98f335a291c0282a7c488058faa
 
 **⭐ N'hésitez pas à mettre une étoile si ce projet vous a été utile ! ⭐**
 
